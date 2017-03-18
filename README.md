@@ -1,1 +1,1 @@
-# MyCircleImage自定义圆形图片工具#####使用注意事项,最好不要使用layout_width="match_parent"等，指定一个具体的值，这样的效果比较好，如果不这样可以会有一些bug
+# MyCircleImage自定义圆形图片工具#####使用效果如图![image](first.jpg)
