@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircleImage/CircleImage.iml" filepath="$PROJECT_DIR$/CircleImage/CircleImage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCircleImage.iml" filepath="$PROJECT_DIR$/MyCircleImage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple/Simple.iml" filepath="$PROJECT_DIR$/Simple/Simple.iml" />
     </modules>
   </component>
 </project>
